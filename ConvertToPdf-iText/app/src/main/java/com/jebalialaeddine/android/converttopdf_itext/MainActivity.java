@@ -25,23 +25,24 @@ import java.io.InputStreamReader;
 
 
 public class MainActivity extends Activity {
-
     final Context CONTEXT = this;
 
+    /**
+     * Convert text file to PDF
+     * @param textFilePath String
+     * @param outputPath String
+     */
     private void convertText(String textFilePath, String outputPath){
         FileInputStream fis=null;
         DataInputStream in=null;
         InputStreamReader isr=null;
         BufferedReader br=null;
-
         try{
             Document document = new Document();
             PdfWriter.getInstance(document, new FileOutputStream(outputPath));
             document.open();
-
             File file = new File(textFilePath);
             if(file.exists()){
-
                 fis = new FileInputStream(file);
                 in = new DataInputStream(fis);
                 isr=new InputStreamReader(in);
@@ -52,23 +53,22 @@ public class MainActivity extends Activity {
                     para.setAlignment(Element.ALIGN_JUSTIFIED);
                     document.add(para);
                 }
-
-
                 showAlertDialog("Converting text...", "Converting text to PDF finished... Generated PDF saved in " + outputPath);
             }
             else {
                 showAlertDialog("Converting text...", "File " + textFilePath + " does not exist!");
             }
-
-
-
-
             document.close();
         } catch (Exception e) {
             showAlertDialog("Converting text...", "An error has occurred: " + e.getMessage());
         }
     }
 
+    /**
+     * Convert image file to PDF
+     * @param imagePath String
+     * @param outputPath String
+     */
     private void convertImage(String imagePath, String outputPath){
         try {
             Document document=new Document();
@@ -84,6 +84,11 @@ public class MainActivity extends Activity {
         }
     }
 
+    /**
+     * show alert dialog
+     * @param title String
+     * @param message String
+     */
     private void showAlertDialog(String title, String message){
         AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(CONTEXT);
         alertDialogBuilder.setTitle(title);
