@@ -84,6 +84,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 21 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="aspose-words-1.12-android-jdk16" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-21.0.3" level="project" />
     <orderEntry type="library" exported="" name="Aspose.Pdf.Android-1.5" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-21.0.3" level="project" />
