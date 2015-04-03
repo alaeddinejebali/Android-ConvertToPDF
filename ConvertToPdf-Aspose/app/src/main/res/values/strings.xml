@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ConvertToPdf-Aspose</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="title">Convert to PDF using Aspose</string>
+    <string name="convert_title">Convert doc, docx files</string>
+    <string name="convert_label">Path to your file:</string>
+    <string name="convert_button_convert">Convert to PDF</string>
 </resources>
