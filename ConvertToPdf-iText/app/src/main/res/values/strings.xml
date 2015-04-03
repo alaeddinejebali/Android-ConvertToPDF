@@ -3,9 +3,9 @@
 
     <string name="title">Convert Using i-Text library</string>
     <string name="convert_text_title">Convert Text to PDF</string>
-    <string name="convert_text_label">Path to your text file</string>
+    <string name="convert_text_label">Path to your text file:</string>
     <string name="convert_text_button_convert">Convert Text</string>
     <string name="convert_image_title">Convert Image to PDF</string>
-    <string name="convert_image_label">Path to your image file</string>
+    <string name="convert_image_label">Path to your image file:</string>
     <string name="convert_image_button_convert">Convert image</string>
 </resources>

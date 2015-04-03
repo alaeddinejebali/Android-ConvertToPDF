@@ -29,33 +29,33 @@ public class MainActivity extends Activity {
 
     /**
      * Convert text file to PDF
+     *
      * @param textFilePath String
-     * @param outputPath String
+     * @param outputPath   String
      */
-    private void convertText(String textFilePath, String outputPath){
-        FileInputStream fis=null;
-        DataInputStream in=null;
-        InputStreamReader isr=null;
-        BufferedReader br=null;
-        try{
+    private void convertText(String textFilePath, String outputPath) {
+        FileInputStream fis = null;
+        DataInputStream in = null;
+        InputStreamReader isr = null;
+        BufferedReader br = null;
+        try {
             Document document = new Document();
             PdfWriter.getInstance(document, new FileOutputStream(outputPath));
             document.open();
             File file = new File(textFilePath);
-            if(file.exists()){
+            if (file.exists()) {
                 fis = new FileInputStream(file);
                 in = new DataInputStream(fis);
-                isr=new InputStreamReader(in);
+                isr = new InputStreamReader(in);
                 br = new BufferedReader(isr);
                 String strLine;
-                while ((strLine = br.readLine()) != null)  {
-                    Paragraph para =new Paragraph(strLine+"\n");
+                while ((strLine = br.readLine()) != null) {
+                    Paragraph para = new Paragraph(strLine + "\n");
                     para.setAlignment(Element.ALIGN_JUSTIFIED);
                     document.add(para);
                 }
                 showAlertDialog("Converting text...", "Converting text to PDF finished... Generated PDF saved in " + outputPath);
-            }
-            else {
+            } else {
                 showAlertDialog("Converting text...", "File " + textFilePath + " does not exist!");
             }
             document.close();
@@ -66,12 +66,13 @@ public class MainActivity extends Activity {
 
     /**
      * Convert image file to PDF
-     * @param imagePath String
+     *
+     * @param imagePath  String
      * @param outputPath String
      */
-    private void convertImage(String imagePath, String outputPath){
+    private void convertImage(String imagePath, String outputPath) {
         try {
-            Document document=new Document();
+            Document document = new Document();
             PdfWriter.getInstance(document, new FileOutputStream(outputPath));
             document.open();
             Image image = Image.getInstance(imagePath);
@@ -86,17 +87,18 @@ public class MainActivity extends Activity {
 
     /**
      * show alert dialog
-     * @param title String
+     *
+     * @param title   String
      * @param message String
      */
-    private void showAlertDialog(String title, String message){
+    private void showAlertDialog(String title, String message) {
         AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(CONTEXT);
         alertDialogBuilder.setTitle(title);
         alertDialogBuilder
                 .setMessage(message)
                 .setCancelable(false)
-                .setPositiveButton("Close",new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog,int id) {
+                .setPositiveButton("Close", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
                         dialog.cancel();
                     }
                 });
@@ -117,7 +119,7 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 EditText editTextTxtPath = (EditText) findViewById(R.id.editTextTxtPath);
-                String textFilePath =  Environment.getExternalStorageDirectory().getAbsolutePath() + "/" + editTextTxtPath.getText();
+                String textFilePath = Environment.getExternalStorageDirectory().getAbsolutePath() + "/" + editTextTxtPath.getText();
                 String outputPath = textFilePath.substring(0, textFilePath.lastIndexOf('.')) + ".pdf";
                 convertText(textFilePath, outputPath);
             }
@@ -129,7 +131,7 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 EditText editTextImagePath = (EditText) findViewById(R.id.editTextImagePath);
-                String imagePath =  Environment.getExternalStorageDirectory().getAbsolutePath() + "/" + editTextImagePath.getText();
+                String imagePath = Environment.getExternalStorageDirectory().getAbsolutePath() + "/" + editTextImagePath.getText();
                 String outputPath = imagePath.substring(0, imagePath.lastIndexOf('.')) + ".pdf";
                 convertImage(imagePath, outputPath);
             }

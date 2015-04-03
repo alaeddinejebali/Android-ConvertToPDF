@@ -1,12 +1,19 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
-    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity"
+    android:background="#ffedf4ff">
 
-    <TextView android:text="@string/title" android:layout_width="fill_parent"
-        android:layout_height="wrap_content" android:gravity="center_horizontal"
+    <TextView
+        android:text="@string/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
         android:id="@+id/textView"
         android:textColor="@color/bright_foreground_inverse_material_dark"
         android:textSize="@dimen/abc_text_size_large_material"
@@ -24,46 +31,75 @@
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
-            <TextView android:text="@string/convert_text_title" android:layout_width="fill_parent"
-                android:layout_height="wrap_content" android:gravity="left"
+
+            <TextView
+                android:text="@string/convert_text_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
                 android:textSize="22dp"
                 android:textIsSelectable="false"
                 android:textColor="#555" />
-            <TextView android:text="@string/convert_text_label" android:layout_width="fill_parent"
-                android:layout_height="wrap_content" android:gravity="left"
-                android:textSize="18dp" android:layout_marginTop="15dp" />
+
+            <TextView
+                android:text="@string/convert_text_label"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:layout_marginTop="15dp" />
+
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="test/myText.txt"
-                android:id="@+id/editTextTxtPath" android:layout_marginTop="15dp" />
-            <Button android:id="@+id/buttonConvertText"
+                android:id="@+id/editTextTxtPath"
+                android:layout_marginTop="15dp" />
+
+            <Button
+                android:id="@+id/buttonConvertText"
                 android:layout_width="fill_parent"
                 android:layout_marginTop="15dp"
-                android:layout_height="fill_parent" android:text="@string/convert_text_button_convert" />
+                android:layout_height="fill_parent"
+                android:text="@string/convert_text_button_convert" />
         </LinearLayout>
 
         <LinearLayout
             android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_marginTop="50dp">
-            <TextView android:text="@string/convert_image_title" android:layout_width="fill_parent"
-                android:layout_height="wrap_content" android:gravity="left"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp">
+
+            <TextView
+                android:text="@string/convert_image_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
                 android:textSize="22dp"
                 android:textIsSelectable="false"
                 android:textColor="#555" />
-            <TextView android:text="@string/convert_image_label" android:layout_width="fill_parent"
-                android:layout_height="wrap_content" android:gravity="left"
-                android:textSize="18dp" android:layout_marginTop="15dp" />
+
+            <TextView
+                android:text="@string/convert_image_label"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:layout_marginTop="15dp" />
+
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="test/myImage.jpg"
-                android:id="@+id/editTextImagePath" android:layout_marginTop="15dp" />
-            <Button android:id="@+id/buttonConvertImage"
+                android:id="@+id/editTextImagePath"
+                android:layout_marginTop="15dp" />
+
+            <Button
+                android:id="@+id/buttonConvertImage"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
-                android:layout_marginTop="15dp" android:text="@string/convert_image_title" />
+                android:layout_marginTop="15dp"
+                android:text="@string/convert_image_title" />
         </LinearLayout>
     </LinearLayout>
 
