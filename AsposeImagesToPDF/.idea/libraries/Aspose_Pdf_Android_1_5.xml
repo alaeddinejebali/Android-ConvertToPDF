@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Aspose.Pdf.Android-1.5">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/src/main/java/com/jebalialaeddine/android/asposeimagestopdf/Aspose.Pdf.Android-1.5.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
