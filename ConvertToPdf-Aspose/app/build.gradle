@@ -10,6 +10,7 @@ android {
         targetSdkVersion 21
         versionCode 1
         versionName "1.0"
+        multiDexEnabled true
     }
     buildTypes {
         release {
@@ -17,11 +18,16 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
 }
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    provided files('libs/aw-classes_dex2jar.jar')
     compile 'com.android.support:appcompat-v7:21.0.3'
-    compile files('libs/Aspose.Pdf.Android-1.5.jar')
-    compile files('libs/aspose-words-1.12-android-jdk16.jar')
+    compile 'com.google.code.gson:gson:2.3'
+    compile 'com.android.support:multidex:1.0.0'
 }

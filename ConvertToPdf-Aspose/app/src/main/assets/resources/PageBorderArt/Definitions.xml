@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorderArtDefinitions>
+  <BorderArt name="Apples" id="64" contraction="660" hexpansion="660" vexpansion="660" tl="64.wmf" t="64.wmf" tr="64.wmf" r="64.wmf" br="64.wmf" b="64.wmf" bl="64.wmf" l="64.wmf" />
+  <BorderArt name="Arched Scallops" id="65" contraction="480" hexpansion="480" vexpansion="480" tl="65.wmf" t="65.wmf" tr="65.wmf" r="65.wmf" br="65.wmf" b="65.wmf" bl="65.wmf" l="65.wmf" />
+  <BorderArt name="Baby Pacifier" id="66" contraction="660" hexpansion="660" vexpansion="660" tl="66.wmf" t="66.wmf" tr="66.wmf" r="66.wmf" br="66.wmf" b="66.wmf" bl="66.wmf" l="66.wmf" />
+  <BorderArt name="Baby Rattle" id="67" contraction="200" hexpansion="200" vexpansion="200" tl="67.wmf" t="67.wmf" tr="67.wmf" r="67.wmf" br="67.wmf" b="67.wmf" bl="67.wmf" l="67.wmf" />
+  <BorderArt name="Balloons3 Colors" id="68" contraction="400" hexpansion="400" vexpansion="400" tl="68.wmf" t="68.wmf" tr="68.wmf" r="68.wmf" br="68.wmf" b="68.wmf" bl="68.wmf" l="68.wmf" />
+  <BorderArt name="BalloonsHot Air" id="69" contraction="660" hexpansion="660" vexpansion="660" tl="69.wmf" t="69.wmf" tr="69.wmf" r="69.wmf" br="69.wmf" b="69.wmf" bl="69.wmf" l="69.wmf" />
+  <BorderArt name="BasicBlack Dashes" id="70" contraction="80" hexpansion="193" vexpansion="193" tl="70_1.wmf" t="70_2.wmf" tr="70_3.wmf" r="70_4.wmf" br="70_5.wmf" b="70_6.wmf" bl="70_7.wmf" l="70_8.wmf" />
+  <BorderArt name="BasicBlack Dots" id="71" contraction="100" hexpansion="100" vexpansion="100" tl="71.wmf" t="71.wmf" tr="71.wmf" r="71.wmf" br="71.wmf" b="71.wmf" bl="71.wmf" l="71.wmf" />
+  <BorderArt name="BasicBlack Squares" id="72" contraction="180" hexpansion="180" vexpansion="180" tl="72.wmf" t="72.wmf" tr="72.wmf" r="72.wmf" br="72.wmf" b="72.wmf" bl="72.wmf" l="72.wmf" />
+  <BorderArt name="BasicThin Lines" id="73" contraction="120" hexpansion="528" vexpansion="696" tl="73_1.wmf" t="73_2.wmf" tr="73_3.wmf" r="73_4.wmf" br="73_5.wmf" b="73_6.wmf" bl="73_7.wmf" l="73_8.wmf" />
+  <BorderArt name="BasicWhite Dashes" id="74" contraction="120" hexpansion="290" vexpansion="290" tl="74_1.wmf" t="74_2.wmf" tr="74_3.wmf" r="74_4.wmf" br="74_5.wmf" b="74_6.wmf" bl="74_7.wmf" l="74_8.wmf" />
+  <BorderArt name="BasicWhite Dots" id="75" contraction="100" hexpansion="100" vexpansion="100" tl="75.wmf" t="75.wmf" tr="75.wmf" r="75.wmf" br="75.wmf" b="75.wmf" bl="75.wmf" l="75.wmf" />
+  <BorderArt name="BasicWhite Squares" id="76" contraction="180" hexpansion="180" vexpansion="180" tl="76.wmf" t="76.wmf" tr="76.wmf" r="76.wmf" br="76.wmf" b="76.wmf" bl="76.wmf" l="76.wmf" />
+  <BorderArt name="BasicWide Inline" id="77" contraction="120" hexpansion="528" vexpansion="696" tl="77_1.wmf" t="77_2.wmf" tr="77_3.wmf" r="77_4.wmf" br="77_5.wmf" b="77_6.wmf" bl="77_7.wmf" l="77_8.wmf" />
+  <BorderArt name="BasicWide Midline" id="78" contraction="160" hexpansion="502" vexpansion="662" tl="78_1.wmf" t="78_2.wmf" tr="78_3.wmf" r="78_4.wmf" br="78_5.wmf" b="78_6.wmf" bl="78_7.wmf" l="78_8.wmf" />
+  <BorderArt name="BasicWide Outline" id="79" contraction="120" hexpansion="528" vexpansion="696" tl="79_1.wmf" t="79_2.wmf" tr="79_3.wmf" r="79_4.wmf" br="79_5.wmf" b="79_6.wmf" bl="79_7.wmf" l="79_8.wmf" />
+  <BorderArt name="Bats" id="80" contraction="660" hexpansion="660" vexpansion="660" tl="80.wmf" t="80.wmf" tr="80.wmf" r="80.wmf" br="80.wmf" b="80.wmf" bl="80.wmf" l="80.wmf" />
+  <BorderArt name="Birds" id="81" contraction="600" hexpansion="600" vexpansion="20000" tl="81_1.wmf" t="81_2.wmf" tr="81_3.wmf" r="81_4.wmf" br="81_5.wmf" b="81_6.wmf" bl="81_7.wmf" l="81_8.wmf" />
+  <BorderArt name="Birds in Flight" id="82" contraction="660" hexpansion="660" vexpansion="660" tl="82.wmf" t="82.wmf" tr="82.wmf" r="82.wmf" br="82.wmf" b="82.wmf" bl="82.wmf" l="82.wmf" />
+  <BorderArt name="Cabins" id="83" contraction="720" hexpansion="720" vexpansion="720" tl="83.wmf" t="83.wmf" tr="83.wmf" r="83.wmf" br="83.wmf" b="83.wmf" bl="83.wmf" l="83.wmf" />
+  <BorderArt name="Cake Slice" id="84" contraction="660" hexpansion="660" vexpansion="660" tl="84.wmf" t="84.wmf" tr="84.wmf" r="84.wmf" br="84.wmf" b="84.wmf" bl="84.wmf" l="84.wmf" />
+  <BorderArt name="Candy Corn" id="85" contraction="660" hexpansion="660" vexpansion="660" tl="85_1.wmf" t="85_2.wmf" tr="85_3.wmf" r="85_4.wmf" br="85_5.wmf" b="85_6.wmf" bl="85_7.wmf" l="85_8.wmf" />
+  <BorderArt name="Celtic Knotwork" id="86" contraction="480" hexpansion="480" vexpansion="480" tl="86_1.wmf" t="86_2.wmf" tr="86_3.wmf" r="86_4.wmf" br="86_5.wmf" b="86_6.wmf" bl="86_7.wmf" l="86_8.wmf" />
+  <BorderArt name="Certificate Banner" id="87" contraction="720" hexpansion="20000" vexpansion="20000" tl="87_1.wmf" t="87_2.wmf" tr="87_3.wmf" r="87_4.wmf" br="87_5.wmf" b="87_6.wmf" bl="87_7.wmf" l="87_8.wmf" />
+  <BorderArt name="Chain Link" id="88" contraction="200" hexpansion="200" vexpansion="200" tl="88_1.wmf" t="88_2.wmf" tr="88_3.wmf" r="88_4.wmf" br="88_5.wmf" b="88_6.wmf" bl="88_7.wmf" l="88_8.wmf" />
+  <BorderArt name="Champagne Bottle" id="89" contraction="660" hexpansion="660" vexpansion="660" tl="89.wmf" t="89.wmf" tr="89.wmf" r="89.wmf" br="89.wmf" b="89.wmf" bl="89.wmf" l="89.wmf" />
+  <BorderArt name="Checked Bar" id="90" contraction="200" hexpansion="200" vexpansion="200" tl="90_1.wmf" t="90_2.wmf" tr="90_3.wmf" r="90_4.wmf" br="90_5.wmf" b="90_6.wmf" bl="90_7.wmf" l="90_8.wmf" />
+  <BorderArt name="Checked BarColor" id="91" contraction="200" hexpansion="200" vexpansion="200" tl="91_1.wmf" t="91_2.wmf" tr="91_3.wmf" r="91_4.wmf" br="91_5.wmf" b="91_6.wmf" bl="91_7.wmf" l="91_8.wmf" />
+  <BorderArt name="Checkered" id="92" contraction="200" hexpansion="200" vexpansion="200" tl="92.wmf" t="92.wmf" tr="92.wmf" r="92.wmf" br="92.wmf" b="92.wmf" bl="92.wmf" l="92.wmf" />
+  <BorderArt name="Christmas Tree" id="93" contraction="660" hexpansion="660" vexpansion="660" tl="93.wmf" t="93.wmf" tr="93.wmf" r="93.wmf" br="93.wmf" b="93.wmf" bl="93.wmf" l="93.wmf" />
+  <BorderArt name="Circles and Lines" id="94" contraction="720" hexpansion="720" vexpansion="720" tl="94_1.wmf" t="94_2.wmf" tr="94_3.wmf" r="94_4.wmf" br="94_5.wmf" b="94_6.wmf" bl="94_7.wmf" l="94_8.wmf" />
+  <BorderArt name="Circles and Rectangles" id="95" contraction="960" hexpansion="960" vexpansion="960" tl="95_1.wmf" t="95_2.wmf" tr="95_3.wmf" r="95_4.wmf" br="95_5.wmf" b="95_6.wmf" bl="95_7.wmf" l="95_8.wmf" />
+  <BorderArt name="Classical Wave" id="96" contraction="200" hexpansion="215" vexpansion="215" tl="96_1.wmf" t="96_2.wmf" tr="96_3.wmf" r="96_4.wmf" br="96_5.wmf" b="96_6.wmf" bl="96_7.wmf" l="96_8.wmf" />
+  <BorderArt name="Clocks" id="97" contraction="320" hexpansion="320" vexpansion="320" tl="97.wmf" t="97.wmf" tr="97.wmf" r="97.wmf" br="97.wmf" b="97.wmf" bl="97.wmf" l="97.wmf" />
+  <BorderArt name="Compass" id="98" contraction="400" hexpansion="400" vexpansion="400" tl="98_1.wmf" t="98_2.wmf" tr="98_3.wmf" r="98_4.wmf" br="98_5.wmf" b="98_6.wmf" bl="98_7.wmf" l="98_8.wmf" />
+  <BorderArt name="Confetti" id="99" contraction="400" hexpansion="290" vexpansion="313" tl="99_1.wmf" t="99_2.wmf" tr="99_3.wmf" r="99_4.wmf" br="99_5.wmf" b="99_6.wmf" bl="99_7.wmf" l="99_8.wmf" />
+  <BorderArt name="ConfettiGrays" id="100" contraction="400" hexpansion="400" vexpansion="400" tl="100.wmf" t="100.wmf" tr="100.wmf" r="100.wmf" br="100.wmf" b="100.wmf" bl="100.wmf" l="100.wmf" />
+  <BorderArt name="ConfettiOutline" id="101" contraction="400" hexpansion="400" vexpansion="400" tl="101.wmf" t="101.wmf" tr="101.wmf" r="101.wmf" br="101.wmf" b="101.wmf" bl="101.wmf" l="101.wmf" />
+  <BorderArt name="ConfettiStreamers" id="102" contraction="660" hexpansion="660" vexpansion="660" tl="102.wmf" t="102.wmf" tr="102.wmf" r="102.wmf" br="102.wmf" b="102.wmf" bl="102.wmf" l="102.wmf" />
+  <BorderArt name="ConfettiWhite" id="103" contraction="400" hexpansion="400" vexpansion="400" tl="103.wmf" t="103.wmf" tr="103.wmf" r="103.wmf" br="103.wmf" b="103.wmf" bl="103.wmf" l="103.wmf" />
+  <BorderArt name="Corner Triangles" id="104" contraction="200" hexpansion="200" vexpansion="200" tl="104_1.wmf" t="104_2.wmf" tr="104_3.wmf" r="104_4.wmf" br="104_5.wmf" b="104_6.wmf" bl="104_7.wmf" l="104_8.wmf" />
+  <BorderArt name="Coupon Cutout Dashes" id="105" contraction="200" hexpansion="200" vexpansion="200" tl="105_1.wmf" t="105_2.wmf" tr="105_3.wmf" r="105_4.wmf" br="105_5.wmf" b="105_6.wmf" bl="105_7.wmf" l="105_8.wmf" />
+  <BorderArt name="Coupon Cutout Dots" id="106" contraction="360" hexpansion="105" vexpansion="105" tl="106_1.wmf" t="106_2.wmf" tr="106_3.wmf" r="106_4.wmf" br="106_5.wmf" b="106_6.wmf" bl="106_7.wmf" l="106_8.wmf" />
+  <BorderArt name="Crazy Maze" id="107" contraction="480" hexpansion="480" vexpansion="480" tl="107_1.wmf" t="107_2.wmf" tr="107_3.wmf" r="107_4.wmf" br="107_5.wmf" b="107_6.wmf" bl="107_7.wmf" l="107_8.wmf" />
+  <BorderArt name="CreaturesButterfly" id="108" contraction="640" hexpansion="640" vexpansion="640" tl="108.wmf" t="108.wmf" tr="108.wmf" r="108.wmf" br="108.wmf" b="108.wmf" bl="108.wmf" l="108.wmf" />
+  <BorderArt name="CreaturesFish" id="109" contraction="640" hexpansion="640" vexpansion="640" tl="109.wmf" t="109.wmf" tr="109.wmf" r="109.wmf" br="109.wmf" b="109.wmf" bl="109.wmf" l="109.wmf" />
+  <BorderArt name="CreaturesInsects" id="110" contraction="200" hexpansion="200" vexpansion="200" tl="110_1.wmf" t="110_2.wmf" tr="110_3.wmf" r="110_4.wmf" br="110_5.wmf" b="110_6.wmf" bl="110_7.wmf" l="110_8.wmf" />
+  <BorderArt name="CreaturesLady Bug" id="111" contraction="560" hexpansion="560" vexpansion="560" tl="111.wmf" t="111.wmf" tr="111.wmf" r="111.wmf" br="111.wmf" b="111.wmf" bl="111.wmf" l="111.wmf" />
+  <BorderArt name="Cross-Stitch" id="112" contraction="180" hexpansion="180" vexpansion="180" tl="112.wmf" t="112.wmf" tr="112.wmf" r="112.wmf" br="112.wmf" b="112.wmf" bl="112.wmf" l="112.wmf" />
+  <BorderArt name="Cupids" id="113" contraction="660" hexpansion="660" vexpansion="660" tl="113.wmf" t="113.wmf" tr="113.wmf" r="113.wmf" br="113.wmf" b="113.wmf" bl="113.wmf" l="113.wmf" />
+  <BorderArt name="DecoArch" id="114" contraction="600" hexpansion="20000" vexpansion="20000" tl="114_1.wmf" t="114_2.wmf" tr="114_3.wmf" r="114_4.wmf" br="114_5.wmf" b="114_6.wmf" bl="114_7.wmf" l="114_8.wmf" />
+  <BorderArt name="DecoArch in Color" id="115" contraction="720" hexpansion="20000" vexpansion="20000" tl="115_1.wmf" t="115_2.wmf" tr="115_3.wmf" r="115_4.wmf" br="115_5.wmf" b="115_6.wmf" bl="115_7.wmf" l="115_8.wmf" />
+  <BorderArt name="DecoBlocks" id="116" contraction="800" hexpansion="357" vexpansion="357" tl="116_1.wmf" t="116_2.wmf" tr="116_3.wmf" r="116_4.wmf" br="116_5.wmf" b="116_6.wmf" bl="116_7.wmf" l="116_8.wmf" />
+  <BorderArt name="Diamonds in Gray" id="117" contraction="240" hexpansion="240" vexpansion="240" tl="117.wmf" t="117.wmf" tr="117.wmf" r="117.wmf" br="117.wmf" b="117.wmf" bl="117.wmf" l="117.wmf" />
+  <BorderArt name="Double D" id="118" contraction="320" hexpansion="309" vexpansion="309" tl="118_1.wmf" t="118_2.wmf" tr="118_3.wmf" r="118_4.wmf" br="118_5.wmf" b="118_6.wmf" bl="118_7.wmf" l="118_8.wmf" />
+  <BorderArt name="Double Diamonds" id="119" contraction="320" hexpansion="320" vexpansion="320" tl="119.wmf" t="119.wmf" tr="119.wmf" r="119.wmf" br="119.wmf" b="119.wmf" bl="119.wmf" l="119.wmf" />
+  <BorderArt name="EarthOne" id="120" contraction="680" hexpansion="680" vexpansion="680" tl="120.wmf" t="120.wmf" tr="120.wmf" r="120.wmf" br="120.wmf" b="120.wmf" bl="120.wmf" l="120.wmf" />
+  <BorderArt name="EarthTwo" id="121" contraction="680" hexpansion="680" vexpansion="680" tl="121.wmf" t="121.wmf" tr="121.wmf" r="121.wmf" br="121.wmf" b="121.wmf" bl="121.wmf" l="121.wmf" />
+  <BorderArt name="Eclipsing Squares" id="122" contraction="480" hexpansion="480" vexpansion="480" tl="122.wmf" t="122.wmf" tr="122.wmf" r="122.wmf" br="122.wmf" b="122.wmf" bl="122.wmf" l="122.wmf" />
+  <BorderArt name="Eclipsing Squares 2" id="123" contraction="480" hexpansion="480" vexpansion="480" tl="123.wmf" t="123.wmf" tr="123.wmf" r="123.wmf" br="123.wmf" b="123.wmf" bl="123.wmf" l="123.wmf" />
+  <BorderArt name="EggsBlackWhite" id="124" contraction="660" hexpansion="660" vexpansion="660" tl="124.wmf" t="124.wmf" tr="124.wmf" r="124.wmf" br="124.wmf" b="124.wmf" bl="124.wmf" l="124.wmf" />
+  <BorderArt name="Fans" id="125" contraction="680" hexpansion="680" vexpansion="680" tl="125.wmf" t="125.wmf" tr="125.wmf" r="125.wmf" br="125.wmf" b="125.wmf" bl="125.wmf" l="125.wmf" />
+  <BorderArt name="Film" id="126" contraction="400" hexpansion="400" vexpansion="400" tl="126_1.wmf" t="126_2.wmf" tr="126_3.wmf" r="126_4.wmf" br="126_5.wmf" b="126_6.wmf" bl="126_7.wmf" l="126_8.wmf" />
+  <BorderArt name="Firecrackers" id="127" contraction="480" hexpansion="480" vexpansion="480" tl="127.wmf" t="127.wmf" tr="127.wmf" r="127.wmf" br="127.wmf" b="127.wmf" bl="127.wmf" l="127.wmf" />
+  <BorderArt name="FlowersBlock Print" id="128" contraction="640" hexpansion="640" vexpansion="640" tl="128.wmf" t="128.wmf" tr="128.wmf" r="128.wmf" br="128.wmf" b="128.wmf" bl="128.wmf" l="128.wmf" />
+  <BorderArt name="FlowersDaisies" id="129" contraction="400" hexpansion="400" vexpansion="400" tl="129.wmf" t="129.wmf" tr="129.wmf" r="129.wmf" br="129.wmf" b="129.wmf" bl="129.wmf" l="129.wmf" />
+  <BorderArt name="FlowersModern" id="130" contraction="320" hexpansion="320" vexpansion="320" tl="130.wmf" t="130.wmf" tr="130.wmf" r="130.wmf" br="130.wmf" b="130.wmf" bl="130.wmf" l="130.wmf" />
+  <BorderArt name="FlowersModern 2" id="131" contraction="280" hexpansion="622" vexpansion="622" tl="131_1.wmf" t="131_2.wmf" tr="131_3.wmf" r="131_4.wmf" br="131_5.wmf" b="131_6.wmf" bl="131_7.wmf" l="131_8.wmf" />
+  <BorderArt name="FlowersPansy" id="132" contraction="660" hexpansion="660" vexpansion="660" tl="132.wmf" t="132.wmf" tr="132.wmf" r="132.wmf" br="132.wmf" b="132.wmf" bl="132.wmf" l="132.wmf" />
+  <BorderArt name="FlowersRed Rose" id="133" contraction="240" hexpansion="240" vexpansion="240" tl="133.wmf" t="133.wmf" tr="133.wmf" r="133.wmf" br="133.wmf" b="133.wmf" bl="133.wmf" l="133.wmf" />
+  <BorderArt name="FlowersRoses" id="134" contraction="660" hexpansion="660" vexpansion="660" tl="134.wmf" t="134.wmf" tr="134.wmf" r="134.wmf" br="134.wmf" b="134.wmf" bl="134.wmf" l="134.wmf" />
+  <BorderArt name="FlowersTeacup" id="135" contraction="660" hexpansion="660" vexpansion="660" tl="135.wmf" t="135.wmf" tr="135.wmf" r="135.wmf" br="135.wmf" b="135.wmf" bl="135.wmf" l="135.wmf" />
+  <BorderArt name="FlowersTiny" id="136" contraction="280" hexpansion="280" vexpansion="280" tl="136_1.wmf" t="136_2.wmf" tr="136_3.wmf" r="136_4.wmf" br="136_5.wmf" b="136_6.wmf" bl="136_7.wmf" l="136_8.wmf" />
+  <BorderArt name="Gems" id="137" contraction="200" hexpansion="200" vexpansion="200" tl="137_1.wmf" t="137_2.wmf" tr="137_3.wmf" r="137_4.wmf" br="137_5.wmf" b="137_6.wmf" bl="137_7.wmf" l="137_8.wmf" />
+  <BorderArt name="Gingerbread Man" id="138" contraction="660" hexpansion="660" vexpansion="660" tl="138.wmf" t="138.wmf" tr="138.wmf" r="138.wmf" br="138.wmf" b="138.wmf" bl="138.wmf" l="138.wmf" />
+  <BorderArt name="Gradient" id="139" contraction="480" hexpansion="480" vexpansion="480" tl="139.wmf" t="139.wmf" tr="139.wmf" r="139.wmf" br="139.wmf" b="139.wmf" bl="139.wmf" l="139.wmf" />
+  <BorderArt name="Handmade" id="140" contraction="720" hexpansion="20000" vexpansion="20000" tl="140_1.wmf" t="140_2.wmf" tr="140_3.wmf" r="140_4.wmf" br="140_5.wmf" b="140_6.wmf" bl="140_7.wmf" l="140_8.wmf" />
+  <BorderArt name="Handmade 2" id="141" contraction="720" hexpansion="20000" vexpansion="20000" tl="141_1.wmf" t="141_2.wmf" tr="141_3.wmf" r="141_4.wmf" br="141_5.wmf" b="141_6.wmf" bl="141_7.wmf" l="141_8.wmf" />
+  <BorderArt name="Heart Balloon" id="142" contraction="660" hexpansion="660" vexpansion="660" tl="142.wmf" t="142.wmf" tr="142.wmf" r="142.wmf" br="142.wmf" b="142.wmf" bl="142.wmf" l="142.wmf" />
+  <BorderArt name="Heart Grey" id="143" contraction="660" hexpansion="660" vexpansion="660" tl="143.wmf" t="143.wmf" tr="143.wmf" r="143.wmf" br="143.wmf" b="143.wmf" bl="143.wmf" l="143.wmf" />
+  <BorderArt name="Hearts" id="144" contraction="240" hexpansion="240" vexpansion="240" tl="144.wmf" t="144.wmf" tr="144.wmf" r="144.wmf" br="144.wmf" b="144.wmf" bl="144.wmf" l="144.wmf" />
+  <BorderArt name="Heebie Jeebies" id="145" contraction="240" hexpansion="240" vexpansion="240" tl="145.wmf" t="145.wmf" tr="145.wmf" r="145.wmf" br="145.wmf" b="145.wmf" bl="145.wmf" l="145.wmf" />
+  <BorderArt name="Holly" id="146" contraction="200" hexpansion="200" vexpansion="200" tl="146.wmf" t="146.wmf" tr="146.wmf" r="146.wmf" br="146.wmf" b="146.wmf" bl="146.wmf" l="146.wmf" />
+  <BorderArt name="House Funky" id="147" contraction="660" hexpansion="660" vexpansion="660" tl="147.wmf" t="147.wmf" tr="147.wmf" r="147.wmf" br="147.wmf" b="147.wmf" bl="147.wmf" l="147.wmf" />
+  <BorderArt name="Hypnotic" id="148" contraction="240" hexpansion="240" vexpansion="240" tl="148_1.wmf" t="148_2.wmf" tr="148_3.wmf" r="148_4.wmf" br="148_5.wmf" b="148_6.wmf" bl="148_7.wmf" l="148_8.wmf" />
+  <BorderArt name="Ice Cream Cones" id="149" contraction="360" hexpansion="360" vexpansion="360" tl="149.wmf" t="149.wmf" tr="149.wmf" r="149.wmf" br="149.wmf" b="149.wmf" bl="149.wmf" l="149.wmf" />
+  <BorderArt name="Light Bulb" id="150" contraction="600" hexpansion="600" vexpansion="600" tl="150.wmf" t="150.wmf" tr="150.wmf" r="150.wmf" br="150.wmf" b="150.wmf" bl="150.wmf" l="150.wmf" />
+  <BorderArt name="Lightning" id="151" contraction="480" hexpansion="480" vexpansion="480" tl="151.wmf" t="151.wmf" tr="151.wmf" r="151.wmf" br="151.wmf" b="151.wmf" bl="151.wmf" l="151.wmf" />
+  <BorderArt name="Lightning2" id="152" contraction="400" hexpansion="400" vexpansion="400" tl="152_1.wmf" t="152_2.wmf" tr="152_3.wmf" r="152_4.wmf" br="152_5.wmf" b="152_6.wmf" bl="152_7.wmf" l="152_8.wmf" />
+  <BorderArt name="Map Pins" id="153" contraction="240" hexpansion="240" vexpansion="240" tl="153.wmf" t="153.wmf" tr="153.wmf" r="153.wmf" br="153.wmf" b="153.wmf" bl="153.wmf" l="153.wmf" />
+  <BorderArt name="Maple Leaf" id="154" contraction="660" hexpansion="660" vexpansion="660" tl="154.wmf" t="154.wmf" tr="154.wmf" r="154.wmf" br="154.wmf" b="154.wmf" bl="154.wmf" l="154.wmf" />
+  <BorderArt name="Maple Muffins" id="155" contraction="560" hexpansion="560" vexpansion="560" tl="155.wmf" t="155.wmf" tr="155.wmf" r="155.wmf" br="155.wmf" b="155.wmf" bl="155.wmf" l="155.wmf" />
+  <BorderArt name="Marquee" id="156" contraction="80" hexpansion="320" vexpansion="320" tl="156_1.wmf" t="156_2.wmf" tr="156_3.wmf" r="156_4.wmf" br="156_5.wmf" b="156_6.wmf" bl="156_7.wmf" l="156_8.wmf" />
+  <BorderArt name="MarqueeToothed" id="157" contraction="160" hexpansion="320" vexpansion="320" tl="157_1.wmf" t="157_2.wmf" tr="157_3.wmf" r="157_4.wmf" br="157_5.wmf" b="157_6.wmf" bl="157_7.wmf" l="157_8.wmf" />
+  <BorderArt name="Moons" id="158" contraction="240" hexpansion="469" vexpansion="469" tl="158_1.wmf" t="158_2.wmf" tr="158_3.wmf" r="158_4.wmf" br="158_5.wmf" b="158_6.wmf" bl="158_7.wmf" l="158_8.wmf" />
+  <BorderArt name="Mosaic" id="159" contraction="400" hexpansion="400" vexpansion="400" tl="159.wmf" t="159.wmf" tr="159.wmf" r="159.wmf" br="159.wmf" b="159.wmf" bl="159.wmf" l="159.wmf" />
+  <BorderArt name="Music Notes" id="160" contraction="320" hexpansion="320" vexpansion="320" tl="160.wmf" t="160.wmf" tr="160.wmf" r="160.wmf" br="160.wmf" b="160.wmf" bl="160.wmf" l="160.wmf" />
+  <BorderArt name="Northwest" id="161" contraction="240" hexpansion="369" vexpansion="369" tl="161_1.wmf" t="161_2.wmf" tr="161_3.wmf" r="161_4.wmf" br="161_5.wmf" b="161_6.wmf" bl="161_7.wmf" l="161_8.wmf" />
+  <BorderArt name="Ovals" id="162" contraction="200" hexpansion="371" vexpansion="328" tl="162_1.wmf" t="162_2.wmf" tr="162_3.wmf" r="162_4.wmf" br="162_5.wmf" b="162_6.wmf" bl="162_7.wmf" l="162_8.wmf" />
+  <BorderArt name="Packages" id="163" contraction="480" hexpansion="480" vexpansion="480" tl="163.wmf" t="163.wmf" tr="163.wmf" r="163.wmf" br="163.wmf" b="163.wmf" bl="163.wmf" l="163.wmf" />
+  <BorderArt name="PalmsBlack" id="164" contraction="480" hexpansion="480" vexpansion="480" tl="164.wmf" t="164.wmf" tr="164.wmf" r="164.wmf" br="164.wmf" b="164.wmf" bl="164.wmf" l="164.wmf" />
+  <BorderArt name="PalmsColor" id="165" contraction="640" hexpansion="640" vexpansion="640" tl="165.wmf" t="165.wmf" tr="165.wmf" r="165.wmf" br="165.wmf" b="165.wmf" bl="165.wmf" l="165.wmf" />
+  <BorderArt name="Paper Clips" id="166" contraction="560" hexpansion="344" vexpansion="560" tl="166_1.wmf" t="166_2.wmf" tr="166_3.wmf" r="166_4.wmf" br="166_5.wmf" b="166_6.wmf" bl="166_7.wmf" l="166_8.wmf" />
+  <BorderArt name="Papyrus" id="167" contraction="480" hexpansion="480" vexpansion="480" tl="167_1.wmf" t="167_2.wmf" tr="167_3.wmf" r="167_4.wmf" br="167_5.wmf" b="167_6.wmf" bl="167_7.wmf" l="167_8.wmf" />
+  <BorderArt name="Party Favor" id="168" contraction="660" hexpansion="660" vexpansion="660" tl="168.wmf" t="168.wmf" tr="168.wmf" r="168.wmf" br="168.wmf" b="168.wmf" bl="168.wmf" l="168.wmf" />
+  <BorderArt name="Party Glass" id="169" contraction="660" hexpansion="660" vexpansion="660" tl="169.wmf" t="169.wmf" tr="169.wmf" r="169.wmf" br="169.wmf" b="169.wmf" bl="169.wmf" l="169.wmf" />
+  <BorderArt name="Pencils" id="170" contraction="600" hexpansion="600" vexpansion="600" tl="170.wmf" t="170.wmf" tr="170.wmf" r="170.wmf" br="170.wmf" b="170.wmf" bl="170.wmf" l="170.wmf" />
+  <BorderArt name="People" id="171" contraction="300" hexpansion="300" vexpansion="300" tl="171.wmf" t="171.wmf" tr="171.wmf" r="171.wmf" br="171.wmf" b="171.wmf" bl="171.wmf" l="171.wmf" />
+  <BorderArt name="People Waving" id="172" contraction="300" hexpansion="300" vexpansion="300" tl="172.wmf" t="172.wmf" tr="172.wmf" r="172.wmf" br="172.wmf" b="172.wmf" bl="172.wmf" l="172.wmf" />
+  <BorderArt name="People with Hats" id="173" contraction="420" hexpansion="420" vexpansion="420" tl="173.wmf" t="173.wmf" tr="173.wmf" r="173.wmf" br="173.wmf" b="173.wmf" bl="173.wmf" l="173.wmf" />
+  <BorderArt name="Pointsettias" id="174" contraction="660" hexpansion="660" vexpansion="660" tl="174.wmf" t="174.wmf" tr="174.wmf" r="174.wmf" br="174.wmf" b="174.wmf" bl="174.wmf" l="174.wmf" />
+  <BorderArt name="Postage Stamp" id="175" contraction="200" hexpansion="197" vexpansion="197" tl="175_1.wmf" t="175_2.wmf" tr="175_3.wmf" r="175_4.wmf" br="175_5.wmf" b="175_6.wmf" bl="175_7.wmf" l="175_8.wmf" />
+  <BorderArt name="Pumpkin1" id="176" contraction="660" hexpansion="660" vexpansion="660" tl="176.wmf" t="176.wmf" tr="176.wmf" r="176.wmf" br="176.wmf" b="176.wmf" bl="176.wmf" l="176.wmf" />
+  <BorderArt name="Push Pin in Note 2" id="177" contraction="720" hexpansion="193" vexpansion="720" tl="177_1.wmf" t="177_2.wmf" tr="177_3.wmf" r="177_4.wmf" br="177_5.wmf" b="177_6.wmf" bl="177_7.wmf" l="177_8.wmf" />
+  <BorderArt name="Pushpin in Note" id="178" contraction="200" hexpansion="200" vexpansion="200" tl="178_1.wmf" t="178_2.wmf" tr="178_3.wmf" r="178_4.wmf" br="178_5.wmf" b="178_6.wmf" bl="178_7.wmf" l="178_8.wmf" />
+  <BorderArt name="Pyramids" id="179" contraction="240" hexpansion="352" vexpansion="352" tl="179_1.wmf" t="179_2.wmf" tr="179_3.wmf" r="179_4.wmf" br="179_5.wmf" b="179_6.wmf" bl="179_7.wmf" l="179_8.wmf" />
+  <BorderArt name="Pyramids from Above" id="180" contraction="400" hexpansion="400" vexpansion="400" tl="180.wmf" t="180.wmf" tr="180.wmf" r="180.wmf" br="180.wmf" b="180.wmf" bl="180.wmf" l="180.wmf" />
+  <BorderArt name="Quadrants" id="181" contraction="200" hexpansion="200" vexpansion="200" tl="181_1.wmf" t="181_2.wmf" tr="181_3.wmf" r="181_4.wmf" br="181_5.wmf" b="181_6.wmf" bl="181_7.wmf" l="181_8.wmf" />
+  <BorderArt name="Rings" id="182" contraction="320" hexpansion="320" vexpansion="320" tl="182.wmf" t="182.wmf" tr="182.wmf" r="182.wmf" br="182.wmf" b="182.wmf" bl="182.wmf" l="182.wmf" />
+  <BorderArt name="Safari" id="183" contraction="480" hexpansion="480" vexpansion="480" tl="183.wmf" t="183.wmf" tr="183.wmf" r="183.wmf" br="183.wmf" b="183.wmf" bl="183.wmf" l="183.wmf" />
+  <BorderArt name="Sawtooth" id="184" contraction="240" hexpansion="205" vexpansion="205" tl="184_1.wmf" t="184_2.wmf" tr="184_3.wmf" r="184_4.wmf" br="184_5.wmf" b="184_6.wmf" bl="184_7.wmf" l="184_8.wmf" />
+  <BorderArt name="Sawtooth in Gray" id="185" contraction="320" hexpansion="166" vexpansion="166" tl="185_1.wmf" t="185_2.wmf" tr="185_3.wmf" r="185_4.wmf" br="185_5.wmf" b="185_6.wmf" bl="185_7.wmf" l="185_8.wmf" />
+  <BorderArt name="Scared Cat" id="186" contraction="660" hexpansion="660" vexpansion="660" tl="186.wmf" t="186.wmf" tr="186.wmf" r="186.wmf" br="186.wmf" b="186.wmf" bl="186.wmf" l="186.wmf" />
+  <BorderArt name="Seattle" id="187" contraction="640" hexpansion="640" vexpansion="640" tl="187.wmf" t="187.wmf" tr="187.wmf" r="187.wmf" br="187.wmf" b="187.wmf" bl="187.wmf" l="187.wmf" />
+  <BorderArt name="Shadowed Squares" id="188" contraction="240" hexpansion="240" vexpansion="240" tl="188.wmf" t="188.wmf" tr="188.wmf" r="188.wmf" br="188.wmf" b="188.wmf" bl="188.wmf" l="188.wmf" />
+  <BorderArt name="Shark s Teeth" id="189" contraction="280" hexpansion="280" vexpansion="280" tl="189.wmf" t="189.wmf" tr="189.wmf" r="189.wmf" br="189.wmf" b="189.wmf" bl="189.wmf" l="189.wmf" />
+  <BorderArt name="Shorebird Tracks" id="190" contraction="160" hexpansion="426" vexpansion="426" tl="190_1.wmf" t="190_2.wmf" tr="190_3.wmf" r="190_4.wmf" br="190_5.wmf" b="190_6.wmf" bl="190_7.wmf" l="190_8.wmf" />
+  <BorderArt name="Skyrocket" id="191" contraction="660" hexpansion="660" vexpansion="660" tl="191.wmf" t="191.wmf" tr="191.wmf" r="191.wmf" br="191.wmf" b="191.wmf" bl="191.wmf" l="191.wmf" />
+  <BorderArt name="SnowflakeFancy" id="192" contraction="660" hexpansion="660" vexpansion="660" tl="192.wmf" t="192.wmf" tr="192.wmf" r="192.wmf" br="192.wmf" b="192.wmf" bl="192.wmf" l="192.wmf" />
+  <BorderArt name="Snowflakes" id="193" contraction="600" hexpansion="600" vexpansion="600" tl="193.wmf" t="193.wmf" tr="193.wmf" r="193.wmf" br="193.wmf" b="193.wmf" bl="193.wmf" l="193.wmf" />
+  <BorderArt name="Sombrero" id="194" contraction="660" hexpansion="660" vexpansion="660" tl="194.wmf" t="194.wmf" tr="194.wmf" r="194.wmf" br="194.wmf" b="194.wmf" bl="194.wmf" l="194.wmf" />
+  <BorderArt name="Southwest" id="195" contraction="240" hexpansion="496" vexpansion="496" tl="195_1.wmf" t="195_2.wmf" tr="195_3.wmf" r="195_4.wmf" br="195_5.wmf" b="195_6.wmf" bl="195_7.wmf" l="195_8.wmf" />
+  <BorderArt name="Stars" id="196" contraction="240" hexpansion="240" vexpansion="240" tl="196.wmf" t="196.wmf" tr="196.wmf" r="196.wmf" br="196.wmf" b="196.wmf" bl="196.wmf" l="196.wmf" />
+  <BorderArt name="Stars on Top" id="197" contraction="720" hexpansion="720" vexpansion="20000" tl="197_1.wmf" t="197_2.wmf" tr="197_3.wmf" r="197_4.wmf" br="197_5.wmf" b="197_6.wmf" bl="197_7.wmf" l="197_8.wmf" />
+  <BorderArt name="Stars3D" id="198" contraction="600" hexpansion="600" vexpansion="600" tl="198.wmf" t="198.wmf" tr="198.wmf" r="198.wmf" br="198.wmf" b="198.wmf" bl="198.wmf" l="198.wmf" />
+  <BorderArt name="StarsBlack" id="199" contraction="160" hexpansion="160" vexpansion="160" tl="199.wmf" t="199.wmf" tr="199.wmf" r="199.wmf" br="199.wmf" b="199.wmf" bl="199.wmf" l="199.wmf" />
+  <BorderArt name="StarsShadowed" id="200" contraction="240" hexpansion="240" vexpansion="240" tl="200.wmf" t="200.wmf" tr="200.wmf" r="200.wmf" br="200.wmf" b="200.wmf" bl="200.wmf" l="200.wmf" />
+  <BorderArt name="Sun" id="201" contraction="360" hexpansion="360" vexpansion="360" tl="201.wmf" t="201.wmf" tr="201.wmf" r="201.wmf" br="201.wmf" b="201.wmf" bl="201.wmf" l="201.wmf" />
+  <BorderArt name="Swirligig" id="202" contraction="720" hexpansion="720" vexpansion="720" tl="202_1.wmf" t="202_2.wmf" tr="202_3.wmf" r="202_4.wmf" br="202_5.wmf" b="202_6.wmf" bl="202_7.wmf" l="202_8.wmf" />
+  <BorderArt name="Torn Paper" id="203" contraction="720" hexpansion="20000" vexpansion="20000" tl="203_1.wmf" t="203_2.wmf" tr="203_3.wmf" r="203_4.wmf" br="203_5.wmf" b="203_6.wmf" bl="203_7.wmf" l="203_8.wmf" />
+  <BorderArt name="Torn PaperBlack" id="204" contraction="720" hexpansion="20000" vexpansion="20000" tl="204_1.wmf" t="204_2.wmf" tr="204_3.wmf" r="204_4.wmf" br="204_5.wmf" b="204_6.wmf" bl="204_7.wmf" l="204_8.wmf" />
+  <BorderArt name="Trees" id="205" contraction="480" hexpansion="480" vexpansion="480" tl="205.wmf" t="205.wmf" tr="205.wmf" r="205.wmf" br="205.wmf" b="205.wmf" bl="205.wmf" l="205.wmf" />
+  <BorderArt name="Triangle Party" id="206" contraction="300" hexpansion="300" vexpansion="300" tl="206.wmf" t="206.wmf" tr="206.wmf" r="206.wmf" br="206.wmf" b="206.wmf" bl="206.wmf" l="206.wmf" />
+  <BorderArt name="Triangles" id="207" contraction="400" hexpansion="400" vexpansion="400" tl="207_1.wmf" t="207_2.wmf" tr="207_3.wmf" r="207_4.wmf" br="207_5.wmf" b="207_6.wmf" bl="207_7.wmf" l="207_8.wmf" />
+  <BorderArt name="Tribal1" id="208" contraction="240" hexpansion="240" vexpansion="240" tl="208_1.wmf" t="208_2.wmf" tr="208_3.wmf" r="208_4.wmf" br="208_5.wmf" b="208_6.wmf" bl="208_7.wmf" l="208_8.wmf" />
+  <BorderArt name="Tribal2" id="209" contraction="280" hexpansion="280" vexpansion="280" tl="209_1.wmf" t="209_2.wmf" tr="209_3.wmf" r="209_4.wmf" br="209_5.wmf" b="209_6.wmf" bl="209_7.wmf" l="209_8.wmf" />
+  <BorderArt name="Tribal3" id="210" contraction="280" hexpansion="280" vexpansion="274" tl="210_1.wmf" t="210_2.wmf" tr="210_3.wmf" r="210_4.wmf" br="210_5.wmf" b="210_6.wmf" bl="210_7.wmf" l="210_8.wmf" />
+  <BorderArt name="Tribal4" id="211" contraction="480" hexpansion="480" vexpansion="480" tl="211_1.wmf" t="211_2.wmf" tr="211_3.wmf" r="211_4.wmf" br="211_5.wmf" b="211_6.wmf" bl="211_7.wmf" l="211_8.wmf" />
+  <BorderArt name="Tribal5" id="212" contraction="200" hexpansion="200" vexpansion="200" tl="212_1.wmf" t="212_2.wmf" tr="212_3.wmf" r="212_4.wmf" br="212_5.wmf" b="212_6.wmf" bl="212_7.wmf" l="212_8.wmf" />
+  <BorderArt name="Tribal6" id="213" contraction="400" hexpansion="400" vexpansion="400" tl="213_1.wmf" t="213_2.wmf" tr="213_3.wmf" r="213_4.wmf" br="213_5.wmf" b="213_6.wmf" bl="213_7.wmf" l="213_8.wmf" />
+  <BorderArt name="Twisted Lines" id="214" contraction="360" hexpansion="360" vexpansion="360" tl="214_1.wmf" t="214_2.wmf" tr="214_3.wmf" r="214_4.wmf" br="214_5.wmf" b="214_6.wmf" bl="214_7.wmf" l="214_8.wmf" />
+  <BorderArt name="Twisted Lines 2" id="215" contraction="360" hexpansion="20000" vexpansion="20000" tl="215_1.wmf" t="215_2.wmf" tr="215_3.wmf" r="215_4.wmf" br="215_5.wmf" b="215_6.wmf" bl="215_7.wmf" l="215_8.wmf" />
+  <BorderArt name="Vine" id="216" contraction="480" hexpansion="715" vexpansion="715" tl="216_1.wmf" t="216_2.wmf" tr="216_3.wmf" r="216_4.wmf" br="216_5.wmf" b="216_6.wmf" bl="216_7.wmf" l="216_8.wmf" />
+  <BorderArt name="Waveline" id="217" contraction="400" hexpansion="400" vexpansion="400" tl="217_1.wmf" t="217_2.wmf" tr="217_3.wmf" r="217_4.wmf" br="217_5.wmf" b="217_6.wmf" bl="217_7.wmf" l="217_8.wmf" />
+  <BorderArt name="WeavingAngles" id="218" contraction="240" hexpansion="662" vexpansion="662" tl="218_1.wmf" t="218_2.wmf" tr="218_3.wmf" r="218_4.wmf" br="218_5.wmf" b="218_6.wmf" bl="218_7.wmf" l="218_8.wmf" />
+  <BorderArt name="WeavingBraid" id="219" contraction="480" hexpansion="488" vexpansion="488" tl="219_1.wmf" t="219_2.wmf" tr="219_3.wmf" r="219_4.wmf" br="219_5.wmf" b="219_6.wmf" bl="219_7.wmf" l="219_8.wmf" />
+  <BorderArt name="WeavingRibbon" id="220" contraction="280" hexpansion="280" vexpansion="280" tl="220_1.wmf" t="220_2.wmf" tr="220_3.wmf" r="220_4.wmf" br="220_5.wmf" b="220_6.wmf" bl="220_7.wmf" l="220_8.wmf" />
+  <BorderArt name="WeavingStrips" id="221" contraction="240" hexpansion="240" vexpansion="240" tl="221_1.wmf" t="221_2.wmf" tr="221_3.wmf" r="221_4.wmf" br="221_5.wmf" b="221_6.wmf" bl="221_7.wmf" l="221_8.wmf" />
+  <BorderArt name="White Flowers" id="222" contraction="480" hexpansion="20000" vexpansion="480" tl="222_1.wmf" t="222_2.wmf" tr="222_3.wmf" r="222_4.wmf" br="222_5.wmf" b="222_6.wmf" bl="222_7.wmf" l="222_8.wmf" />
+  <BorderArt name="Woodwork" id="223" contraction="400" hexpansion="20000" vexpansion="20000" tl="223_1.wmf" t="223_2.wmf" tr="223_3.wmf" r="223_4.wmf" br="223_5.wmf" b="223_6.wmf" bl="223_7.wmf" l="223_8.wmf" />
+  <BorderArt name="X Illusions" id="224" contraction="480" hexpansion="480" vexpansion="480" tl="224.wmf" t="224.wmf" tr="224.wmf" r="224.wmf" br="224.wmf" b="224.wmf" bl="224.wmf" l="224.wmf" />
+  <BorderArt name="Zany Triangles" id="225" contraction="480" hexpansion="480" vexpansion="480" tl="225_1.wmf" t="225_2.wmf" tr="225_3.wmf" r="225_4.wmf" br="225_5.wmf" b="225_6.wmf" bl="225_7.wmf" l="225_8.wmf" />
+  <BorderArt name="Zig Zag" id="226" contraction="240" hexpansion="288" vexpansion="288" tl="226_1.wmf" t="226_2.wmf" tr="226_3.wmf" r="226_4.wmf" br="226_5.wmf" b="226_6.wmf" bl="226_7.wmf" l="226_8.wmf" />
+  <BorderArt name="Zig Zag Stitch" id="227" contraction="80" hexpansion="80" vexpansion="80" tl="227_1.wmf" t="227_2.wmf" tr="227_3.wmf" r="227_4.wmf" br="227_5.wmf" b="227_6.wmf" bl="227_7.wmf" l="227_8.wmf" />
+</BorderArtDefinitions>

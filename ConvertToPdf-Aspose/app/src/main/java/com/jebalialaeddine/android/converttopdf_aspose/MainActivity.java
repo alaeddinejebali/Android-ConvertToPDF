@@ -10,12 +10,22 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.aspose.words.Document;
+
 
 public class MainActivity extends Activity {
     final Context CONTEXT = this;
 
     private void convertFile(String filePath, String outputPath) {
+        try{
 
+
+            Document document = new Document(filePath);
+            document.save(outputPath);
+            showAlertDialog("Converting text...", "Converting text to PDF finished... Generated PDF saved in: " + outputPath);
+        } catch (Exception e) {
+            showAlertDialog("Converting text...", "An error has occurred: " + e.getMessage());
+        }
     }
 
     /**
@@ -45,6 +55,13 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        // load AW manually
+        //AsposeWordsApplication awapp = new AsposeWordsApplication();
+
+        // this context AW uses to find assets/ folder which contains the second part of the library.
+        //awapp.loadLibs(CONTEXT);
+
+
         setContentView(R.layout.activity_main);
 
         //Convert File
