@@ -16,10 +16,13 @@ import com.aspose.words.Document;
 public class MainActivity extends Activity {
     final Context CONTEXT = this;
 
+    /**
+     * Convert a file to PDF using Aspose
+     * @param filePath String
+     * @param outputPath String
+     */
     private void convertFile(String filePath, String outputPath) {
         try{
-
-
             Document document = new Document(filePath);
             document.save(outputPath);
             showAlertDialog("Converting text...", "Converting text to PDF finished... Generated PDF saved in: " + outputPath);
@@ -55,13 +58,6 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // load AW manually
-        //AsposeWordsApplication awapp = new AsposeWordsApplication();
-
-        // this context AW uses to find assets/ folder which contains the second part of the library.
-        //awapp.loadLibs(CONTEXT);
-
-
         setContentView(R.layout.activity_main);
 
         //Convert File
