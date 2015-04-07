@@ -20,7 +20,7 @@ To use the library.
     - "Aspose.Pdf.zip" offers the feature to convert Text, Image, HTML, XML files to Pdf format.
   - Add "aspose-words-x.xx-android-jdkxx.jar" to your "lib" folder (with Android-Studio, you may need to right-click the "lib/aspose-words-x.xx-android-jdkxx.jar" -> "Add as Library...")
   - Add "aw-classes_dex2jar.jar" to your "lib" folder (with Android-Studio, you may need to right-click the "lib/aw-classes_dex2jar.jar" -> "Add as Library...")
-  - Add permission and MultiDes to your AndroidManifest
+  - Add permission and MultiDex to your AndroidManifest
   
 ```xml
 <application android:name="android.support.multidex.MultiDexApplication"
@@ -33,7 +33,6 @@ To use the library.
 	(...)
 	
     defaultConfig {
-        applicationId "com.jebalialaeddine.android.converttopdf_aspose"
         multiDexEnabled true
     }
 	
