@@ -57,19 +57,11 @@ To use the library.
   - Convert your files
 
 ```java
-    /**
-     * Convert a file to PDF using Aspose
-     * @param filePath String
-     * @param outputPath String
-     */
-    private void convertFile(String filePath, String outputPath) {
-        try{
-            Document document = new Document(filePath);
-            document.save(outputPath);
-            showAlertDialog("Converting text...", "Converting text to PDF finished... Generated PDF saved in: " + outputPath);
-        } catch (Exception e) {
-            showAlertDialog("Converting text...", "An error has occurred: " + e.getMessage());
-        }
+    try{
+        Document document = new Document(filePath);
+        document.save(outputPath);
+    } catch (Exception e) {
+        e.printStackTrace();
     }
 ```
 
