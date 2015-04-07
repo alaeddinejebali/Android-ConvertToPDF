@@ -53,6 +53,7 @@ To use the library.
 	
 ```
   
+  - Copy/paste "resources" folder to "/main/assets/"
   
   
   
