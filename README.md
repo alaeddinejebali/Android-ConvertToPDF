@@ -28,6 +28,30 @@ To use the library.
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 ```
 
+  - Add those lines to your "app/build.gradle"
+```xml
+	(...)
+	
+    defaultConfig {
+        applicationId "com.jebalialaeddine.android.converttopdf_aspose"
+        multiDexEnabled true
+    }
+	
+	(...)
+    
+	dexOptions {
+        javaMaxHeapSize "4g"
+    }
+	
+	(...)
+	
+	dependencies {
+		provided files('libs/aw-classes_dex2jar.jar')
+		compile 'com.google.code.gson:gson:2.3'
+		compile 'com.android.support:multidex:1.0.0'
+	}	
+	
+```
   
   
   
