@@ -10,7 +10,7 @@ To use the library.
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 ```
 
-# Using Aspose
+# Using [Aspose]
   - The project is "/ConvertToPdf-Aspose/"
   - Download Aspose zip from http://www.aspose.com/community/files/74/android-components/aspose.pdf-for-android/default.aspx
   - When you extract it you'll find:
@@ -68,6 +68,7 @@ To use the library.
   
   
 [iText]: http://itextpdf.com
+[Aspose]: https://downloads.aspose.com/pdf/android
 [convert word files to PDF]: http://www.aspose.com/docs/display/wordsjava/How+to++Convert+a+Document+to+PDF
 [Supported file formats for more information]: http://www.aspose.com/docs/display/wordsjava/File+Formats+and+Conversions
 [convert Excel worksheets to PDF]: http://www.aspose.com/docs/display/cellsjava/Converting+to+PDF+Files
